@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="REST API Test Suite" verbose="1">
+
+  <!--   <parameter name="environment" value="QA"/>
+    <parameter name="apiBaseURL" value="https://api.petstore.com"/>
+    <parameter name="authToken" value="your-api-token"/>
+    <parameter name="timeout" value="5000"/> -->
+
+	<listeners>
+	    <listener class-name="api.utilities.ExtentReportManager" />
+	</listeners>
+
+  <test thread-count="5" name="PetStore API Tests">
+  
+  <!-- <parameter name="apiBaseURL" value="https://api.petstore.com"/>
+  <parameter name="authToken" value="petstore-token"/> -->
+  
+    <classes>
+      <class name="api.testCases.UserTest"/>
+     <!--  <class name="api.testCases.UserTestDD"/> -->
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

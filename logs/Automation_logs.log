@@ -1,0 +1,22 @@
+[INFO ] 2024-12-26 14:01:10.325 [main] PetStore_RestAssuredFramework - Create User executed
+[INFO ] 2024-12-26 14:01:12.282 [main] PetStore_RestAssuredFramework - Reading the created user data
+[INFO ] 2024-12-26 14:01:16.251 [main] PetStore_RestAssuredFramework - Get User data executed
+[INFO ] 2024-12-26 14:01:19.684 [main] PetStore_RestAssuredFramework - Update user executed
+[INFO ] 2024-12-26 14:01:22.825 [main] PetStore_RestAssuredFramework - Delete user executed
+[INFO ] 2024-12-26 14:23:27.580 [main] PetStore_RestAssuredFramework - Create User executed
+[INFO ] 2024-12-26 14:23:29.550 [main] PetStore_RestAssuredFramework - Reading the created user data
+[INFO ] 2024-12-26 14:25:34.387 [main] PetStore_RestAssuredFramework - Create User executed
+[INFO ] 2024-12-26 14:25:35.939 [main] PetStore_RestAssuredFramework - Reading the created user data
+[INFO ] 2024-12-26 14:25:40.504 [main] PetStore_RestAssuredFramework - Get User data executed
+[INFO ] 2024-12-26 14:25:43.579 [main] PetStore_RestAssuredFramework - Update user executed
+[INFO ] 2024-12-26 14:25:46.544 [main] PetStore_RestAssuredFramework - Delete user executed
+[INFO ] 2024-12-26 15:04:05.398 [main] PetStore_RestAssuredFramework - Create User executed
+[INFO ] 2024-12-26 15:04:07.099 [main] PetStore_RestAssuredFramework - Reading the created user data
+[INFO ] 2024-12-26 15:04:10.618 [main] PetStore_RestAssuredFramework - Get User data executed
+[INFO ] 2024-12-26 15:04:13.568 [main] PetStore_RestAssuredFramework - Update user executed
+[INFO ] 2024-12-26 15:04:16.432 [main] PetStore_RestAssuredFramework - Delete user executed
+[INFO ] 2024-12-26 15:05:43.087 [main] PetStore_RestAssuredFramework - Create User executed
+[INFO ] 2024-12-26 15:05:44.635 [main] PetStore_RestAssuredFramework - Reading the created user data
+[INFO ] 2024-12-26 15:05:48.613 [main] PetStore_RestAssuredFramework - Get User data executed
+[INFO ] 2024-12-26 15:05:52.278 [main] PetStore_RestAssuredFramework - Update user executed
+[INFO ] 2024-12-26 15:05:55.737 [main] PetStore_RestAssuredFramework - Delete user executed
